@@ -22,7 +22,7 @@
             "changeLog": "Netflix TV"
         },
         {
-            "packageName": "cm.aptoide.pt",
+            "packageName": "cm.aptoidetv.pt",
             "name": "AptoideTV",
             "version": "1.0",
             "url": "https://apkins.aptoide.com/",
