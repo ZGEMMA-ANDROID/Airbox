@@ -20,6 +20,14 @@
             "filename": "netflix-android-tv.apk",
             "widevine": "L3",
             "changeLog": "Netflix TV"
+        },
+        {
+            "packageName": "cm.aptoide.pt",
+            "name": "AptoideTV",
+            "version": "1.0",
+            "url": "https://apkins.aptoide.com/",
+            "filename": "AptoideTV-5.1.2.apk",
+            "changeLog": "Alternative marketplace"
         }
     ]
 }
