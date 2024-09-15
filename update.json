@@ -1,0 +1,25 @@
+# Example data
+# systemapp = need a restart after installation
+
+{
+    "packages": [
+        {
+            "packageName": "com.netflix.ninja",
+            "name": "Netflix 4K",
+            "version": "10",
+            "url": "https://github.com/ZGEMMA-ANDROID/apk/raw/main/",
+            "filename": "NetflixTV.apk",
+            "widevine": "L1",
+            "changeLog": "Netflix androidtv"
+        },
+        {
+    	    "packageName": "com.netflix.ninja",
+            "name": "Netflix",
+            "version": "10",
+            "url": "https://github.com/ZGEMMA-ANDROID/apk/raw/main/",
+            "filename": "netflix-android-tv.apk",
+            "widevine": "L3",
+            "changeLog": "Netflix TV"
+        }
+    ]
+}
