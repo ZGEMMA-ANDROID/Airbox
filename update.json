@@ -28,6 +28,14 @@
             "url": "https://apkins.aptoide.com/",
             "filename": "AptoideTV-5.1.2.apk",
             "changeLog": "Alternative marketplace"
+        },
+        {
+            "packageName": "com.andycodes.tvapp",
+            "name": "TVApp",
+            "version": "1.1",
+            "url": "https://github.com/ZGEMMA-ANDROID/apk/raw/main/",
+            "filename": "TVApp.apk",
+            "changeLog": "latest TVApp"
         }
     ]
 }
