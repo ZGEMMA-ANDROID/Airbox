@@ -32,7 +32,7 @@
         {
             "packageName": "com.andycodes.tvapp",
             "name": "TVApp",
-            "version": "3",
+            "version": "5",
             "url": "https://github.com/ZGEMMA-ANDROID/apk/raw/main/",
             "filename": "TVApp.apk",
             "changeLog": "latest TVApp"
@@ -40,7 +40,7 @@
         {
             "packageName": "com.andycodes.tvlistener",
             "name": "TVListener",
-            "version": "3",
+            "version": "5",
             "url": "https://github.com/ZGEMMA-ANDROID/apk/raw/main/",
             "filename": "TVListener.apk",
             "changeLog": "latest TVListener"
