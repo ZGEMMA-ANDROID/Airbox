@@ -32,7 +32,7 @@
         {
             "packageName": "com.andycodes.tvapp",
             "name": "TVApp",
-            "version": "6",
+            "version": "7",
             "url": "https://github.com/ZGEMMA-ANDROID/apk/raw/main/",
             "filename": "TVApp.apk",
             "changeLog": "latest TVApp"
