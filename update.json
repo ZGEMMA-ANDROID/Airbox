@@ -4,35 +4,9 @@
 {
     "packages": [
         {
-            "packageName": "com.netflix.ninja",
-            "name": "Netflix 4K",
-            "version": "10",
-            "url": "https://github.com/ZGEMMA-ANDROID/apk/raw/main/",
-            "filename": "NetflixTV.apk",
-            "widevine": "L1",
-            "changeLog": "Netflix androidtv"
-        },
-        {
-    	    "packageName": "com.netflix.ninja",
-            "name": "Netflix",
-            "version": "10",
-            "url": "https://github.com/ZGEMMA-ANDROID/apk/raw/main/",
-            "filename": "netflix-android-tv.apk",
-            "widevine": "L3",
-            "changeLog": "Netflix TV"
-        },
-        {
-            "packageName": "cm.aptoidetv.pt",
-            "name": "AptoideTV",
-            "version": "1.0",
-            "url": "https://apkins.aptoide.com/",
-            "filename": "AptoideTV-5.1.2.apk",
-            "changeLog": "Alternative marketplace"
-        },
-        {
             "packageName": "com.andycodes.tvapp",
             "name": "TVApp",
-            "version": "9",
+            "version": "12",
             "url": "https://github.com/ZGEMMA-ANDROID/apk/raw/main/",
             "filename": "TVApp.apk",
             "changeLog": "latest TVApp"
@@ -40,7 +14,7 @@
         {
             "packageName": "com.andycodes.tvlistener",
             "name": "TVListener",
-            "version": "5",
+            "version": "12",
             "url": "https://github.com/ZGEMMA-ANDROID/apk/raw/main/",
             "filename": "TVListener.apk",
             "changeLog": "latest TVListener"
