@@ -6,10 +6,10 @@
         {
             "packageName": "com.andycodes.tvapp",
             "name": "TVApp",
-            "version": "15",
+            "version": "16",
             "url": "https://github.com/ZGEMMA-ANDROID/apk/raw/main/",
             "filename": "TVApp.apk",
-            "changeLog": "latest TVApp 2025-07"
+            "changeLog": "latest TVApp 2025-09"
         },
         {
             "packageName": "com.andycodes.tvlistener",
