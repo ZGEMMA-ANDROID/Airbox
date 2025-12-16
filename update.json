@@ -6,10 +6,10 @@
         {
             "packageName": "com.andycodes.tvapp",
             "name": "TVApp",
-            "version": "33",
+            "version": "34",
             "url": "https://github.com/ZGEMMA-ANDROID/apk/raw/main/",
             "filename": "TVApp.apk",
-            "changeLog": "latest TVApp 2025-12-10 (12dec)"
+            "changeLog": "latest TVApp 2025-12-16 (16dec)"
         },
         {
             "packageName": "com.andycodes.tvlistener",
@@ -18,6 +18,22 @@
             "url": "https://github.com/ZGEMMA-ANDROID/apk/raw/main/",
             "filename": "TVListener.apk",
             "changeLog": "latest TVListener"
+        },
+        {
+            "packageName": "com.andycodes.tvlistener",
+            "name": "Internet SpeedTest",
+            "version": "12",
+            "url": "https://github.com/ZGEMMA-ANDROID/apk/raw/main/",
+            "filename": "internet-speed-test-redmango-analytics-pvt-ltd.apk",
+            "changeLog": ""
+        },
+        {
+            "packageName": "com.andycodes.tvlistener",
+            "name": "DRM Info",
+            "version": "12",
+            "url": "https://github.com/ZGEMMA-ANDROID/apk/raw/main/",
+            "filename": "android-fung-drm-info.apk",
+            "changeLog": ""
         }
     ]
 }
