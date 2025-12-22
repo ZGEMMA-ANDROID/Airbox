@@ -18,22 +18,6 @@
             "url": "https://github.com/ZGEMMA-ANDROID/apk/raw/main/",
             "filename": "TVListener.apk",
             "changeLog": "latest TVListener"
-        },
-        {
-            "packageName": "com.andycodes.tvlistener",
-            "name": "Internet SpeedTest",
-            "version": "12",
-            "url": "https://github.com/ZGEMMA-ANDROID/apk/raw/main/",
-            "filename": "internet-speed-test-redmango-analytics-pvt-ltd.apk",
-            "changeLog": ""
-        },
-        {
-            "packageName": "com.andycodes.tvlistener",
-            "name": "DRM Info",
-            "version": "12",
-            "url": "https://github.com/ZGEMMA-ANDROID/apk/raw/main/",
-            "filename": "android-fung-drm-info.apk",
-            "changeLog": ""
         }
     ]
 }
